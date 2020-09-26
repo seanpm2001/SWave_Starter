@@ -1,0 +1,9 @@
+New project
+Startup sound utility (SWave Starter)
+Library of startup and shutdown sounds for most systems
+Easy to enable
+Options
+Upload custom sounds
+Max files: 999 per slot (via GitHub) <systemFileLimitPerFolderDiskSpace> (local)
+Include all Windows, MacOS, and Ubuntu startup sounds
+To be written in: CSound, C++, Erlang, Rust
