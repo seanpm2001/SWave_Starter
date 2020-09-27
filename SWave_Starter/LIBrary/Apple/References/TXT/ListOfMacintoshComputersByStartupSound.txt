@@ -1,0 +1,41 @@
+Macintosh 128K
+> Macintosh 512K
+> Macintosh Plus
+> Macintosh SE
+> Macintosh Classic
+
+Macintosh II Series
+> Macintosh SE/30
+Macintosh LC Series
+> Macintosh Classic II
+
+Macintosh Color Series
+> Macintosh Quadra series
+> 68K Powerbooks
+
+Power Macintosh 7220
+> Macintosh Performa 5000 series
+
+Power Macintosh 6100
+> Power Macintosh 7100
+> Power Macintosh 8100
+
+Macintosh Centris
+> Macintosh Quadra 840 AV
+
+Power Macintosh 9500
+> Power Macintosh 9600
+> Power Macintosh G3 (Beige)
+
+Power Macintosh G3
+> Power Mac G4
+> Power Mac G4 cube
+> Power Mac G5
+> PowerBook
+> iBook
+> iMac
+> MacBook
+> Mac Mini
+
+Twentieth Anniversary Macintosh
+> Last startup sound
