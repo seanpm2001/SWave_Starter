@@ -1,0 +1,27 @@
+---
+Installing this project (SWave Starter) by @seanpm2001
+---
+
+This project currently doesn't have to be installed to be viewed, as it is not functional yet.
+
+You will need the following programming language packages installed:
+
+> Rust (version 1.0 or later)
+> Erlang (version 1.0 or later)
+> Bourne Again SHell (BASH) (any stable version)
+> C++ (2005 or later)
+> CSound (version 1.0 or later)
+
+If the project contains image files:
+
+If you want to view the image files, the majority of files are in JPG/PNG format. Make sure your computer can handle images of 2560x1440/2560x1080 resolution well, and that your computer can handle JPG files.
+
+Some image files are in other formats, such as SVG, TIFF, TIF, BMP, JFIF, GIF, and PNG. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+
+---
+Install instructions file version: 1 (Saturday, 2021 September 11th at 9:57 pm)
+---
